@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Dark-Player-jake — Spiele · Tools · 3D-Web" width="100%">
+</p>
 
-<!--
-**Dark-Player-jake/Dark-Player-jake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, ich bin Jakob 👋
 
-Here are some ideas to get you started:
+Ich baue in meiner Freizeit von Grund auf: Browser- und Unity-Games, Desktop-Tools mit Electron und interaktive 3D-Websites. Anspruch: es wird fertig — nicht nur Prototyp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Auf einen Blick
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dark-Player-jake&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub-Statistik" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Player-jake&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top-Sprachen" />
+</p>
+
+### 🛠 Ausgewählte Projekte
+
+| Projekt | Was es ist | Stack |
+| --- | --- | --- |
+| **Toolbox** | Zentraler Launcher & Schaltzentrale | Electron |
+| **Neon Arena** | Multiplayer-Arena-Shooter (LAN) | Node · WS |
+| **Automatenkönig** | Vending-Imperium-Simulator | Unity · C# |
+| **bedruckte-tassen** | 3D-B2B-Konfigurator | Next.js · R3F |
+
+<sub>▶ Weiter unten: mein Contribution-Graph &amp; gepinnte Repos.</sub>
