@@ -11,8 +11,7 @@ Ich baue in meiner Freizeit von Grund auf: Browser- und Unity-Games, Desktop-Too
 ### 📊 Auf einen Blick
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dark-Player-jake&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub-Statistik" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Player-jake&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top-Sprachen" />
+  <img src="./assets/stats.svg" alt="Statistik: 238+ Commits, 30 Repos, 886 Contributions — Sprachen: JavaScript, C#, TypeScript, PHP, HTML" width="100%">
 </p>
 
 ### 🛠 Ausgewählte Projekte
