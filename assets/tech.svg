@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 124" role="img" aria-label="Tech-Stack">
+  <rect width="1080" height="124" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1079" height="123" rx="14" fill="none" stroke="#30363d"/>
+  <g><rect x="30" y="24" width="108" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="53" cy="40" r="5" fill="#22d3ee"/><text x="64" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Three.js</text></g>
+  <g><rect x="150" y="24" width="176" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="173" cy="40" r="5" fill="#61dafb"/><text x="184" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">React Three Fiber</text></g>
+  <g><rect x="338" y="24" width="111" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="361" cy="40" r="5" fill="#9feaf9"/><text x="372" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Electron</text></g>
+  <g><rect x="461" y="24" width="105" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="484" cy="40" r="5" fill="#3c873a"/><text x="495" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Node.js</text></g>
+  <g><rect x="578" y="24" width="139" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="601" cy="40" r="5" fill="#ff8a3d"/><text x="612" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">WebSockets</text></g>
+  <g><rect x="729" y="24" width="89" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="752" cy="40" r="5" fill="#e6edf3"/><text x="763" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Unity</text></g>
+  <g><rect x="830" y="24" width="100" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="853" cy="40" r="5" fill="#e6edf3"/><text x="864" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Next.js</text></g>
+  <g><rect x="942" y="24" width="79" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="965" cy="40" r="5" fill="#a259ff"/><text x="976" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Vite</text></g>
+  <g><rect x="30" y="68" width="73" height="32" rx="16" fill="#131a24" stroke="#2a3441"/><circle cx="53" cy="84" r="5" fill="#f05033"/><text x="64" y="89" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Git</text></g>
+</svg>
